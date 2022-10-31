@@ -1,0 +1,1772 @@
+[
+  {
+      "fileName": "0036FC26-C8F4-45D8-AA33-F872967FFB46_1_102_a_twilqn.jpg",
+      "name": "Mezzoloth",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "006646A4-AA4C-4F09-BF4D-BCEDC09D92A9_1_102_a_qarszw.jpg",
+      "name": "Yochlol",
+      "count": 2,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "0099AFA0-E8D6-4F82-858D-2B26818B9260_1_105_c_p5nikd.jpg",
+      "name": "Glabrezu",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "00A4F7C2-002F-4C97-912C-AADBF2CDDA29_1_105_c_nvssrm.jpg",
+      "name": "Halfling",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "0119EED5-8EEC-4006-9B4D-712D2F46C3E3_1_102_a_f956f8.jpg",
+      "name": "Mud Mephit",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "0124E966-A0DD-407C-BFEB-4FA934046A9B_1_105_c_egrvlm.jpg",
+      "name": "Kobold",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "01770433-1B54-4910-B561-C77415EA795A_1_105_c_wjjkgl.jpg",
+      "name": "Gnoll",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "01D7B875-AEA0-4ED0-AC9D-042EA26F6716_1_102_a_n6ccun.jpg",
+      "name": "Banshee",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "023AA650-8153-4666-96EB-874E2C5CAF89_1_105_c_hwut3c.jpg",
+      "name": "Fire Elemental",
+      "count": 2,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "02FA4FA8-2831-4FE5-9DD0-72FCC42CF0E1_1_105_c_nlxdcg.jpg",
+      "name": "Death Dog",
+      "count": 2,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "03336DC1-EC2B-4DFF-9210-280AB6D98B6D_1_102_a_akxqo9.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "0409C69F-4FD2-4E17-8928-72C43222BF2D_1_102_a_l51xxq.jpg",
+      "name": "Kobold",
+      "count": 2,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "06644F4B-792B-46FD-961D-5BA25548106F_1_105_c_vjxwly.jpg",
+      "name": "Drow",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "06E92880-7BBC-41BD-A5C8-C49743892CCB_1_105_c_imz7tg.jpg",
+      "name": "Red Abishai",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "07DDEF46-1483-4A85-BF16-ECFC3F810D8B_1_105_c_k4icoz.jpg",
+      "name": "Duodrone",
+      "count": 1,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "098D9FB4-C07D-445E-BF6E-CF1CE7714010_1_102_a_ohmh5j.jpg",
+      "name": "Kobold",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "09EB49C2-3DB0-4F32-9B69-3203C4D48EAA_1_105_c_fo8ruc.jpg",
+      "name": "Mimic",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "0AD8A813-70F1-45CF-89B1-21D2C342AA7E_1_105_c_wdjqfc.jpg",
+      "name": "Dao",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "0B1CA74B-DBDE-48CD-9153-7A0B12A98A20_1_105_c_gof8hy.jpg",
+      "name": "Gnome",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "0C42352B-79C1-4873-BF28-43D3425FA8E2_1_102_a_bazxy1.jpg",
+      "name": "Bigby's Hand",
+      "count": 1,
+      "creatureType": "Spell Effect"
+  },
+  {
+      "fileName": "0CEF0109-9276-45F4-83CE-2229749F2875_1_105_c_ntrmuv.jpg",
+      "name": "Magmin",
+      "count": 4,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "0E03712B-AEE0-410C-8CB9-4268B0A3C8BE_1_105_c_wm30vk.jpg",
+      "name": "Barbed Devil",
+      "count": 3,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "0EF042AE-D58C-4898-BAE0-EAE7D098A80F_1_105_c_ly4kcc.jpg",
+      "name": "Kuo-toa",
+      "count": 3,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "10775AC4-0A06-4529-8422-DDAAEA01C9DD_1_105_c_aehubm.jpg",
+      "name": "Djinn",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "11EE29A2-245B-4B0D-AEEB-F7006BDC6256_1_105_c_xvw23u.jpg",
+      "name": "Elf",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "12B78E0A-DCAD-4571-9DF0-037E6F35207D_1_105_c_ffzdnx.jpg",
+      "name": "Babau",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "139210A2-57BB-4C6D-B8F2-21E03C7E0E31_1_102_a_ug3ltn.jpg",
+      "name": "Quasit",
+      "count": 2,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "1585813C-7977-4B72-8D34-1A1F81B9D75B_1_105_c_b2zvf5.jpg",
+      "name": "Water Elemental",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "15B4FD01-0291-4FDB-AC5F-1A74D002BFED_1_105_c_cot7ca.jpg",
+      "name": "Green Dragon",
+      "count": 1,
+      "creatureType": "Dragon"
+  },
+  {
+      "fileName": "15DC7089-A57E-484B-8CEA-31C75F99841F_1_102_a_u30x66.jpg",
+      "name": "Tiefling",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "170C67B1-4493-4193-BFFF-72270324BA8A_1_105_c_eaksaf.jpg",
+      "name": "Gnoll",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "174A8AFF-6C11-46E1-B6BF-2576AD6AF741_1_102_a_icjq8r.jpg",
+      "name": "Sea Spawn",
+      "count": 3,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "17DB604A-FF11-4DCE-B956-7C20ED18BC52_1_105_c_paaqm4.jpg",
+      "name": "Orc",
+      "count": 4,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "1A53F702-4113-467B-84FF-AB4425723023_1_105_c_jaqs8o.jpg",
+      "name": "Bugbear",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "1A5F24E5-6A44-4FCB-B5BB-5437AEE19E35_1_105_c_bqinnl.jpg",
+      "name": "Nycaloth",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "1E65DA46-B965-4160-A16E-1A043EBF0D18_1_105_c_dbvorh.jpg",
+      "name": "Ogor",
+      "count": 2,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "1F8C1B08-4214-4FF6-A1A1-47D2044AE8F7_1_105_c_fjh6vz.jpg",
+      "name": "Pit Fiend",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "1FE81EFF-86E6-4FAF-9AF1-3CF2877E7E5E_1_105_c_mazjno.jpg",
+      "name": "Elf",
+      "count": 2,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "204A92D0-49A3-43FF-AD30-6E898C691ED8_1_102_a_rxcsfl.jpg",
+      "name": "Brown Bear",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "207C2EC5-626A-4A7C-BCD0-F19520A2B200_1_105_c_s5zkgc.jpg",
+      "name": "Armanite",
+      "count": 2,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "21A9F41F-3C47-4FED-B32C-475689735233_1_105_c_ppr30x.jpg",
+      "name": "Hobgoblin",
+      "count": 4,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "22D0FD1E-3206-4BEF-BCAB-589B351BA73C_1_105_c_o1oxmb.jpg",
+      "name": "Frost Giant",
+      "count": 2,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "234589D4-1175-441A-ACDD-48CF9534EDE6_1_102_a_iemcua.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "234AFBC8-B240-4696-B176-9922E741E953_1_105_c_cquuzm.jpg",
+      "name": "Mule",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "243CF517-43EF-4306-BBE6-ED9142DC0F7B_1_105_c_duhgkf.jpg",
+      "name": "Dretch",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "24869982-0F87-4B2C-823B-81A183A7629E_1_105_c_dmjqm4.jpg",
+      "name": "Spectator",
+      "count": 1,
+      "creatureType": "Aberration"
+  },
+  {
+      "fileName": "27DA0115-2FD4-4917-AC23-33716BE52A8B_1_105_c_ccoxo0.jpg",
+      "name": "Gnoll",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "27F9B5EE-65F5-4936-AA1A-D6852D69C624_1_102_a_bafyeo.jpg",
+      "name": "Will-o-wisp",
+      "count": 2,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "282B3844-7040-4F75-99C2-508CB6BB19B0_1_105_c_dg7wvc.jpg",
+      "name": "Blight",
+      "count": 5,
+      "creatureType": "Plant"
+  },
+  {
+      "fileName": "28DB6622-026D-469D-82A4-E2AAB2F62457_1_105_c_hw6vni.jpg",
+      "name": "Ghast",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "298DBC1E-ED78-4361-B249-478600587E48_1_102_a_j4mhmw.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "2C97279D-43B7-4561-83B7-88AD45C19EC5_1_105_c_sr5zkd.jpg",
+      "name": "Medusa",
+      "count": 2,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "2EFEA35F-EDD5-4DEA-BB27-14183DB104C8_1_102_a_w37kzp.jpg",
+      "name": "Bigby's Hand",
+      "count": 1,
+      "creatureType": "Spell Effect"
+  },
+  {
+      "fileName": "2F06A584-FB44-48C2-96B9-C6BF2349E1A4_1_102_a_suia4s.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "2F0A3C50-3878-4359-B882-9E3A588574F7_1_105_c_khm074.jpg",
+      "name": "Stone Giant",
+      "count": 2,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "2F0BBB43-272A-4ECB-A292-0C48944813B6_1_105_c_xfxthb.jpg",
+      "name": "Gas Spore",
+      "count": 1,
+      "creatureType": "Plant"
+  },
+  {
+      "fileName": "309CE7AD-AF62-4F9F-B2B2-54A2B71282A7_1_105_c_akhodk.jpg",
+      "name": "Bandit",
+      "count": 2,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "310ED8F2-253F-4C83-A06B-4A3E607836F2_1_105_c_uj4fht.jpg",
+      "name": "Frost Giant",
+      "count": 2,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "323E247B-17C7-4F9A-B044-95C33CBC54DD_1_105_c_apw3cy.jpg",
+      "name": "Clay Golem",
+      "count": 2,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "3243D378-C3A1-4CCE-B2BE-A5F7404FF4F6_1_102_a_oac07z.jpg",
+      "name": "Gravehound",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "346C2A96-A8A3-4D63-B475-7C382B0A920E_1_105_c_balsno.jpg",
+      "name": "Marid",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "34B028BD-FBA3-4CF9-81F3-9205F0B12893_1_105_c_g8oavn.jpg",
+      "name": "Copper Dragon",
+      "count": 1,
+      "creatureType": "Dragon"
+  },
+  {
+      "fileName": "34B380EA-14B7-48D3-A611-BAC0F11F0676_1_102_a_u4rhlb.jpg",
+      "name": "Yeti",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "34E565AE-A363-4C22-AB3D-690B299A9C92_1_105_c_drii8i.jpg",
+      "name": "Deep Gnome",
+      "count": 3,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "356CED69-294E-4DC3-B540-A5F77F83D12C_1_105_c_mh5hnm.jpg",
+      "name": "Piercer",
+      "count": 3,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "36606508-6DBA-4953-9183-7D39DF863444_1_105_c_z5ghr0.jpg",
+      "name": "Tortle",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "36D59DE0-3C0D-4967-99C5-EE663CE81EE7_1_102_a_pbesve.jpg",
+      "name": "Crawling Claw",
+      "count": 2,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "37CAC704-931A-4239-8B47-E85E097FA20B_1_105_c_sitsky.jpg",
+      "name": "Nameless One",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "396D33CB-B9CE-40B3-85D9-7C4256DDEE24_1_102_a_svsc0b.jpg",
+      "name": "Zombie",
+      "count": 4,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "396E9AB4-A822-4526-BF4E-70D16A98B157_1_102_a_th7m7e.jpg",
+      "name": "Fomorian",
+      "count": 2,
+      "creatureType": "Fey"
+  },
+  {
+      "fileName": "3AF8D1E5-41EE-4C0B-96BA-78BBD7B9E349_1_102_a_zts3p6.jpg",
+      "name": "Gray Slaad",
+      "count": 2,
+      "creatureType": "Aberration"
+  },
+  {
+      "fileName": "3BD637DA-0369-447B-84F5-4A2C2165A1AE_1_102_a_gzxwiy.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "3CBADB0D-373F-42BA-AF7E-C56A85B309CF_1_105_c_srhnzw.jpg",
+      "name": "Ghoul",
+      "count": 3,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "3E2EC33F-62A6-421F-B39B-D7C57ECF32FA_1_105_c_xfvnyj.jpg",
+      "name": "Behir",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "3E9E7DA1-3CE5-47AA-8D1B-3A6C555A0C23_1_105_c_vifuqs.jpg",
+      "name": "Abyssal Chicken",
+      "count": 2,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "3F0ABFDA-6165-424F-B59A-7AE61E14F205_1_105_c_l6nw0d.jpg",
+      "name": "Githyanki",
+      "count": 2,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "3F855475-E797-4B63-9144-FEBFBDC65B9C_1_102_a_aonqqq.jpg",
+      "name": "Yuan-ti Abomination",
+      "count": 2,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "405A199A-E1DC-4AAA-9E35-AC810DDD9E9A_1_102_a_rf8kht.jpg",
+      "name": "Androsphinx",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "40B36601-D631-4076-A856-70439F08EA72_1_105_c_nrqnfi.jpg",
+      "name": "Gnoll",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "429C236E-C50B-4451-8825-944D0E29CDDD_1_105_c_rserap.jpg",
+      "name": "Cloud Giant",
+      "count": 2,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "42A0FF91-4E9C-4D0C-B2F1-4D33C1D78CC0_1_102_a_fittrf.jpg",
+      "name": "Sprite",
+      "count": 3,
+      "creatureType": "Fey"
+  },
+  {
+      "fileName": "43F3B684-8870-435B-8177-87369F79051D_1_105_c_yjgg33.jpg",
+      "name": "Flesh Golem",
+      "count": 1,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "44E9A628-0F4F-48D3-87BB-869C10AF9B37_1_105_c_lgfkrh.jpg",
+      "name": "Hill Giant",
+      "count": 1,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "4500979B-682A-404F-B761-2DBFCB3CF792_1_102_a_zzykqh.jpg",
+      "name": "Wererat",
+      "count": 2,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "4501495F-F77C-4A90-B294-DA885B1F2211_1_105_c_z4ganh.jpg",
+      "name": "Balgura",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "4576B49F-4291-4F52-A5D8-C1BB25E2D8B3_1_105_c_perd6a.jpg",
+      "name": "Flumph",
+      "count": 1,
+      "creatureType": "Aberration"
+  },
+  {
+      "fileName": "46257CBC-D8E6-4663-A89D-F31DA4CCB504_1_102_a_cer7vf.jpg",
+      "name": "Lion",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "46D9EA30-855C-4AB3-A2DE-97C519E9AF95_1_105_c_lwtxxm.jpg",
+      "name": "Commoner",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "47E40042-EDFE-4D59-94EA-3BF4B2E3CC48_1_102_a_lvbmn4.jpg",
+      "name": "Quasit",
+      "count": 3,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "49CC1DC5-C1CF-494B-B3BA-53FC10DE2A62_1_105_c_ggrjw6.jpg",
+      "name": "Warforged",
+      "count": 1,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "4A9E716D-FFCE-46C5-A54F-6D4E88EB62FB_1_105_c_z9vypt.jpg",
+      "name": "Gloom Weaver",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "4AFA6ADA-70B0-40A2-8478-E9F1B4B45D27_1_102_a_a9xv8a.jpg",
+      "name": "Giant Crab",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "4C085A8C-8D87-4E25-8BC9-3742866C10C4_1_102_a_ibam0n.jpg",
+      "name": "Almiraj",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "4CF12D69-B836-456C-9283-4A656F6B1075_1_105_c_xdping.jpg",
+      "name": "Cultist",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "4D226B1B-28FF-4CFF-AE89-899531AFF159_1_105_c_xu5cnl.jpg",
+      "name": "Dryad",
+      "count": 2,
+      "creatureType": "Fey"
+  },
+  {
+      "fileName": "4E0E1FD9-2529-4428-B149-FCE284D89F52_1_102_a_tywxbr.jpg",
+      "name": "Empyrean",
+      "count": 1,
+      "creatureType": "Celestial"
+  },
+  {
+      "fileName": "4E389FF0-4804-4DE2-820C-DF7A06E534CA_1_105_c_uuxh8r.jpg",
+      "name": "Shield Guardian",
+      "count": 1,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "54640646-BD57-43DC-9A60-EE96785E877E_1_102_a_r4vxi9.jpg",
+      "name": "Vampiric Mist",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "5683270C-3354-4E73-8C70-07009169A626_1_102_a_a46byu.jpg",
+      "name": "Merrenoloth",
+      "count": 2,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "570CA717-42A7-436A-955F-818E5E0421F1_1_105_c_xq9rr5.jpg",
+      "name": "Chasme",
+      "count": 2,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "571D75B7-12FB-48C9-9B9A-1F040C948A2F_1_105_c_yd27yl.jpg",
+      "name": "Bearded Devil",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "572AA6CD-FBA6-4BB8-8CC3-F5E8FA524590_1_102_a_fshdpd.jpg",
+      "name": "Displacer Beast",
+      "count": 2,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "57915858-2950-442C-B855-505E13A4F6E1_1_105_c_bbts3x.jpg",
+      "name": "Yagnoloth",
+      "count": 2,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "57D25A00-3950-4C66-8A38-24C5D108CA3F_1_105_c_xpayvq.jpg",
+      "name": "Guard Drake",
+      "count": 1,
+      "creatureType": "Dragon"
+  },
+  {
+      "fileName": "598738EF-397E-4B5C-A867-D9A9C4B2C002_1_102_a_khksfh.jpg",
+      "name": "Cultist",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "5A60FEC2-972A-4ADF-9F17-C2BFD6191B60_1_102_a_zftb4s.jpg",
+      "name": "Black Pudding",
+      "count": 1,
+      "creatureType": "Ooze"
+  },
+  {
+      "fileName": "5AC29EE5-89C8-4B8A-A3ED-3172316411F5_1_102_a_pwis8x.jpg",
+      "name": "Giant Prawn",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "5ADF9055-01E4-49CF-98B5-1FF1EA7D4255_1_102_a_bphouf.jpg",
+      "name": "Stirge",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "5B1162CA-74B0-42EA-BC9D-B9F05A3CF51E_1_105_c_ciwyrc.jpg",
+      "name": "Ankheg",
+      "count": 2,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "5C19307B-17D0-41A5-83ED-204DED20518A_1_105_c_omkhdt.jpg",
+      "name": "Shifter",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "5CB2DDB2-18D5-41CB-917E-36DF792BA625_1_102_a_fgnoqh.jpg",
+      "name": "Yuan-ti Malison",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "5CE242CF-9CCA-4835-B2A0-BC076001387E_1_105_c_i4z8p5.jpg",
+      "name": "Nothic",
+      "count": 1,
+      "creatureType": "Aberration"
+  },
+  {
+      "fileName": "5E2C79F4-AEBD-409F-9CA8-ED23B3B92D02_1_105_c_fjc9ej.jpg",
+      "name": "Deva",
+      "count": 1,
+      "creatureType": "Celestial"
+  },
+  {
+      "fileName": "5F0929E6-C3A9-4626-B4E0-CB15F46D0065_1_105_c_ypkwhc.jpg",
+      "name": "Fire Genasi",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "5F282998-B326-4C22-AF32-9359D8EC2AD7_1_105_c_yow3mo.jpg",
+      "name": "Goblin",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "6057EDC6-099D-41A9-8BEF-B91621794A0D_1_105_c_tusjvz.jpg",
+      "name": "Maw Demon",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "606251F0-F56F-43DA-8E9E-5B2167B6C5A8_1_105_c_kw3uxc.jpg",
+      "name": "Hill Giant",
+      "count": 1,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "6138B6D7-AED7-4776-83A3-C8CCF09ADC08_1_105_c_srj2jb.jpg",
+      "name": "Vine Blight",
+      "count": 3,
+      "creatureType": "Plant"
+  },
+  {
+      "fileName": "6385F249-FD86-4589-9D60-6B0B6B700BDB_1_102_a_mun47z.jpg",
+      "name": "Centaur",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "648DE9CF-28E7-4338-A801-41704F4819E4_1_102_a_ilh18m.jpg",
+      "name": "Boar",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "65D4D84B-636C-4C63-8FAC-3F769A8F9B33_1_105_c_jr8zfq.jpg",
+      "name": "Bandit",
+      "count": 4,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "666856CE-55AA-4BE6-A9A7-DD7DB44C5F70_1_102_a_wyri54.jpg",
+      "name": "Skeletal Alchemist",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "67AED925-4A89-4E16-910B-0278BD9295FB_1_102_a_o1ubwl.jpg",
+      "name": "Yuan-ti Anathema",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "67DD4335-C0E1-4960-A888-4720BA3F98C2_1_102_a_tbrdlw.jpg",
+      "name": "Air Myrmidon",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "685F2747-D06E-45D8-9383-2C30BB039E01_1_102_a_sxnq5k.jpg",
+      "name": "Pentadrone",
+      "count": 1,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "69EF6C5F-3867-42FE-9D04-299C909B3F5C_1_105_c_tbclyw.jpg",
+      "name": "Mane Demon",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "6A97572D-D593-4DBD-BE03-C11E82A914CC_1_105_c_cpdgif.jpg",
+      "name": "Dragonborn",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "6B4BA1C1-70EF-4D12-9850-BC81001CFF56_1_105_c_k50pto.jpg",
+      "name": "Mind Flayer",
+      "count": 1,
+      "creatureType": "Aberration"
+  },
+  {
+      "fileName": "6B906465-12B5-4D73-A733-7BF472EF78D3_1_105_c_q420mm.jpg",
+      "name": "Myconid",
+      "count": 4,
+      "creatureType": "Plant"
+  },
+  {
+      "fileName": "6BE3EBA3-9B85-4F0B-951E-B2685AE5F842_1_105_c_ezfhaj.jpg",
+      "name": "Earth Elemental",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "6C2B8845-47CB-4B4F-95BC-BD5E47B4238A_1_105_c_gsiknw.jpg",
+      "name": "Drow",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "6C35B624-5369-4FA1-B0FD-882FA005F961_1_102_a_xytcty.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "6C513DBB-1A93-4646-88AC-7DD98CC7A710_1_102_a_ukc836.jpg",
+      "name": "Oni",
+      "count": 1,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "6D99D6FC-9666-45B7-92C3-C3F7796017A8_1_102_a_wbanud.jpg",
+      "name": "Vampire Spawn",
+      "count": 2,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "6F9F2E9D-2803-45E5-88F1-270E15605309_1_105_c_pwes7w.jpg",
+      "name": "Mind Flayer",
+      "count": 1,
+      "creatureType": "Aberration"
+  },
+  {
+      "fileName": "708835E8-B377-44B7-B762-0893D593E338_1_102_a_ji37u4.jpg",
+      "name": "Wolf",
+      "count": 3,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "73EA371C-1052-4470-8FE8-19B821A99855_1_105_c_jmukvz.jpg",
+      "name": "Cultist",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "74B91BAE-F7EC-47A2-AEE6-32A33DF2058B_1_102_a_gd8fk6.jpg",
+      "name": "Ki-rin",
+      "count": 1,
+      "creatureType": "Celestial"
+  },
+  {
+      "fileName": "762B0DD2-E7AA-4F45-A784-D28AC8119272_1_102_a_yugplo.jpg",
+      "name": "Vampire Spawn",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "765BCAD1-4B72-4CA2-BEBB-99EF27BCDF77_1_105_c_ayaqbb.jpg",
+      "name": "White Dragon",
+      "count": 1,
+      "creatureType": "Dragon"
+  },
+  {
+      "fileName": "766B18AC-2551-445D-9B49-EB6369D2A366_1_105_c_bib91e.jpg",
+      "name": "Kuo-toa",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "777E8D63-16CF-4260-996C-23D0F9C587A0_1_102_a_xyhtyd.jpg",
+      "name": "Bulette",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "778A9063-EDF1-48A6-AC63-F0E8D3D15142_1_102_a_ac347m.jpg",
+      "name": "Bat Swarm",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "77CBB3F4-1BF9-439F-9BD7-2122362A6FE8_1_102_a_yc6f5o.jpg",
+      "name": "Flying Squirrel",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "77D81D96-01FF-42F8-8D94-58E645C178D9_1_102_a_jsnayy.jpg",
+      "name": "Water Myrmidon",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "7C24D838-FA3D-4F00-B290-0A342AE505FB_1_105_c_akdrzy.jpg",
+      "name": "Cambion",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "7C486D24-178E-4C24-96EC-1B4944F4CB54_1_105_c_iubh6y.jpg",
+      "name": "Fire Giant",
+      "count": 2,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "7DE2B73D-F339-4DE0-96DE-992FAB01529F_1_105_c_ibihee.jpg",
+      "name": "Gnoll",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "7EC4D89C-773D-4DE6-A762-1FC602DFBCD4_1_105_c_r4fktf.jpg",
+      "name": "Dwarf",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "7F46B862-01E9-48BA-B74C-747D8C66C1C3_1_105_c_lapfjf.jpg",
+      "name": "Cockatrice",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "81123FEF-3E2E-4F14-BF6D-0643292A5713_1_105_c_vri0qv.jpg",
+      "name": "Bulezau",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "819B55AE-2BB3-4338-B97B-2D2B9B50EE00_1_102_a_e6bipz.jpg",
+      "name": "Worg",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "81C0061F-342F-411D-A364-02B54E41FD1B_1_105_c_n7n5uc.jpg",
+      "name": "Gibbering Mouther",
+      "count": 2,
+      "creatureType": "Aberration"
+  },
+  {
+      "fileName": "82ED5723-2FCA-46A6-859D-37EF90EEBBAF_1_102_a_vlnkr7.jpg",
+      "name": "Wraith",
+      "count": 3,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "839C1C66-7E45-45D0-A132-9C4AB35D37D3_1_102_a_ga09l8.jpg",
+      "name": "Red Wizard",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "845A8384-9426-4C66-8685-08FF0DE58D94_1_105_c_tcatex.jpg",
+      "name": "Hill Giant",
+      "count": 1,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "8628ED9F-FF8F-4361-A4A5-ADF416B52788_1_105_c_dfq6zc.jpg",
+      "name": "Erinyes",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "8708C0DA-E9A5-4D8C-B91C-D96B15E78AED_1_105_c_kux4cf.jpg",
+      "name": "Firbolg",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "87171DCE-0010-4926-B627-0EB29EB30C54_1_105_c_numjbq.jpg",
+      "name": "Shadow Dragon",
+      "count": 1,
+      "creatureType": "Dragon"
+  },
+  {
+      "fileName": "875B2468-2316-4801-AD90-848895C34A97_1_105_c_bjqeep.jpg",
+      "name": "Bugbear",
+      "count": 2,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "87C38436-5E51-4B26-A228-4A600D2FF42D_1_105_c_qudc7b.jpg",
+      "name": "Commoner",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "89C9E9AF-7420-4EC7-AAD6-E39F467D0677_1_105_c_tuskyh.jpg",
+      "name": "Gnome",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "89D38A2E-8E04-4F36-99B4-897176ADC1C1_1_102_a_ivndfh.jpg",
+      "name": "Hippogriff",
+      "count": 3,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "8C712F9E-BA9C-488F-8A9C-EC2376CE8DA1_1_105_c_ruyi88.jpg",
+      "name": "Gelatinous Cube",
+      "count": 1,
+      "creatureType": "Ooze"
+  },
+  {
+      "fileName": "8CF96347-2B27-470C-9D5B-EA09B236C531_1_102_a_jgvoj6.jpg",
+      "name": "Sea Hag",
+      "count": 1,
+      "creatureType": "Fey"
+  },
+  {
+      "fileName": "8D32B903-2584-4589-AE4F-1BEA0FB52B22_1_102_a_rpdwjd.jpg",
+      "name": "Quaggoth",
+      "count": 3,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "8EDC3EDD-D70C-49E0-8BB2-BB9935D3B09D_1_102_a_qnh97f.jpg",
+      "name": "Mage Hand",
+      "count": 1,
+      "creatureType": "Spell Effect"
+  },
+  {
+      "fileName": "8F8C67A9-D48C-492C-A789-1C22CE4274A1_1_105_c_yln37r.jpg",
+      "name": "Needle Blight",
+      "count": 3,
+      "creatureType": "Plant"
+  },
+  {
+      "fileName": "8FFC745B-ED46-4802-8D17-150D9B762B1C_1_102_a_cmngdf.jpg",
+      "name": "Azer",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "90931AF1-0CA9-44FD-AA70-503021BC6D45_1_105_c_a9vmms.jpg",
+      "name": "Efreet",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "90F61142-990E-46A0-85B8-454CE5A86792_1_105_c_leq3h4.jpg",
+      "name": "Darkmantle",
+      "count": 4,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "91F0848C-E2AF-4173-BE29-402E12F52576_1_102_a_xznwxs.jpg",
+      "name": "Roper",
+      "count": 2,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "92EDDF85-8E6D-422F-9D45-2CCB15A50A30_1_105_c_nn5arv.jpg",
+      "name": "Ghast",
+      "count": 2,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "942DA1D5-3874-43F0-B2E4-C4C476EA0B55_1_105_c_yyu06z.jpg",
+      "name": "Kobold",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "95B49034-2F95-450E-9330-98192E60A7A2_1_105_c_inbmes.jpg",
+      "name": "Frost Giant",
+      "count": 2,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "96312BF9-53C5-4C9F-981F-6D316EF2D27E_1_105_c_beumrd.jpg",
+      "name": "Dwarf",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "963D43D4-2F42-45CC-9520-F6FEEF7A66FC_1_102_a_sd0pbl.jpg",
+      "name": "Giant Toad",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "966CBDBC-17A9-4F76-A6C2-3B33F5BA9566_1_105_c_fhrevq.jpg",
+      "name": "Lizardfolk",
+      "count": 3,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "967A23DF-462F-48F3-BEBB-AC6014E0E9D8_1_102_a_yzl4dr.jpg",
+      "name": "Imp",
+      "count": 3,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "99255256-EE8F-4B35-BB7B-0A6795105A2C_1_105_c_hhogks.jpg",
+      "name": "Kenku",
+      "count": 2,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "99376A3F-3A51-4D6C-9AA4-BFF8D5C8FDC8_1_102_a_u0zynj.jpg",
+      "name": "Unseen Servant",
+      "count": 1,
+      "creatureType": "Spell Effect"
+  },
+  {
+      "fileName": "9A2DC067-23C2-4636-BDA5-F905BA80D7B3_1_105_c_vbjxna.jpg",
+      "name": "Kobold",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "9A465E4A-F749-4919-B9DD-A15E5726194A_1_105_c_maudc5.jpg",
+      "name": "Halfling",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "9A5D4C83-7D6A-4A20-BEC4-3D394EA053DC_1_102_a_zkhcpz.jpg",
+      "name": "Ochre Jelly",
+      "count": 1,
+      "creatureType": "Ooze"
+  },
+  {
+      "fileName": "9ADD74A7-9DCB-4AEE-8E43-A0866040E36D_1_105_c_c9fi8n.jpg",
+      "name": "Githzerai",
+      "count": 4,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "9B1A3800-E267-4D80-A081-A667AEA7B908_1_105_c_xvp54r.jpg",
+      "name": "Air Elemental",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "9DCBFA81-4E57-4C3C-B4AB-DC8DB91A6E8C_1_105_c_xtgjot.jpg",
+      "name": "Goblin",
+      "count": 3,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "9EB3FB24-0445-4097-94B3-AF8E5CC41D3C_1_102_a_lwsnlp.jpg",
+      "name": "Flame Skull",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "9F10EF17-431E-4269-A2CB-D153F81F08A2_1_105_c_hruspt.jpg",
+      "name": "Fire Giant",
+      "count": 2,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "9F14FE7D-B1B1-4FA3-8BD5-BECA3ACE62FD_1_105_c_xseoow.jpg",
+      "name": "Mimic",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "A0F3F88B-0EEF-41A2-B29F-118AC0601ECD_1_105_c_j8koph.jpg",
+      "name": "Animated Armor",
+      "count": 2,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "A28658C4-CB52-4473-8E93-1882485D3BB2_1_102_a_y1rgs2.jpg",
+      "name": "Barghest",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "A31C1B89-3079-40BD-B7B4-C5EC828DB7C2_1_105_c_tu4wpg.jpg",
+      "name": "Boggle",
+      "count": 3,
+      "creatureType": "Fey"
+  },
+  {
+      "fileName": "A4BCB4BB-B2D7-48D0-9E29-800A540C48A8_1_105_c_r9qdfr.jpg",
+      "name": "Guard Drake",
+      "count": 1,
+      "creatureType": "Dragon"
+  },
+  {
+      "fileName": "A6AD4413-B1B1-4BA8-A341-4FFAD3260D74_1_105_c_kezdj8.jpg",
+      "name": "Stone Giant",
+      "count": 1,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "A6EAA430-1D03-4FBD-969F-DBD87ACCDA5E_1_105_c_gnk0hq.jpg",
+      "name": "Elf",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "A77B3C1E-E51A-44C0-A056-C0DA9B8519BE_1_105_c_mvhxx3.jpg",
+      "name": "Rakshasa",
+      "count": 2,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "A809ECB9-9D1F-4A3D-966B-49B3E600012E_1_105_c_syue9w.jpg",
+      "name": "Dryad",
+      "count": 1,
+      "creatureType": "Fey"
+  },
+  {
+      "fileName": "A9FFF46D-C813-4637-9584-F121B0A930D6_1_105_c_fnue0t.jpg",
+      "name": "Satyr",
+      "count": 1,
+      "creatureType": "Fey"
+  },
+  {
+      "fileName": "AAC3380E-D8EB-4E8D-A25F-854F801C23B2_1_102_a_vmldzk.jpg",
+      "name": "Manticore",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "AB5ABA55-2C4D-46E7-971F-FA8F9714B143_1_105_c_ahuv19.jpg",
+      "name": "Merfolk",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "ABC536C3-6758-45E2-A289-1AA510D5EF60_1_105_c_iqhc4e.jpg",
+      "name": "Nalfeshnee Demon",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "ABD94EC0-9B3D-4A87-BE47-E6EFB5C4C8C9_1_102_a_griqs5.jpg",
+      "name": "Vampire",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "AC442DCB-00FD-4A3F-9EF5-E54397545FBC_1_105_c_ewftiu.jpg",
+      "name": "Gazer",
+      "count": 1,
+      "creatureType": "Aberration"
+  },
+  {
+      "fileName": "AD86407B-8FF7-495C-80E3-534464C28315_1_102_a_fnilx7.jpg",
+      "name": "Imp",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "AEE0DEC4-7F48-4BCE-AA2B-40D3482F41B1_1_102_a_lymr8v.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "AF003078-9EF5-4C6C-9617-0F7D87F9516F_1_105_c_vbpqma.jpg",
+      "name": "Nipperibo",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "AFEA7D18-3796-4DBC-92CB-796C652E7EA7_1_102_a_ney8bu.jpg",
+      "name": "Guard",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "B02BF4F7-4236-477D-9783-A096E5BDB485_1_102_a_oda89r.jpg",
+      "name": "Dire Wolf",
+      "count": 2,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "B168C0A1-B568-4CE6-A2C0-CFB81AB403C3_1_102_a_kuyrtt.jpg",
+      "name": "Pegasus",
+      "count": 1,
+      "creatureType": "Celestial"
+  },
+  {
+      "fileName": "B242AD71-F517-420E-A9A8-1B9E3FDC439F_1_105_c_w6nnk8.jpg",
+      "name": "Mummy",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "B2712741-BBA1-4372-8B92-5CD4EE656A81_1_105_c_cwpkvt.jpg",
+      "name": "Gnome",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "B2843664-0534-475F-948E-BCBE56DD5525_1_102_a_rdlgfs.jpg",
+      "name": "Yuan-ti Pureblood",
+      "count": 3,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "B29F9F4B-6388-46B3-ADF9-C5541E815A78_1_105_c_buqwhd.jpg",
+      "name": "Werepanther",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "B2ACC62C-DF0E-4582-B386-15FF48D5251D_1_102_a_fih0lq.jpg",
+      "name": "Thug",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "B2D78025-443C-4824-BE7A-8989995E30E0_1_105_c_onviua.jpg",
+      "name": "Lemure",
+      "count": 4,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "B55FFB8C-8C8C-403E-BCCF-27CD35C8C239_1_102_a_w24fot.jpg",
+      "name": "Ogre",
+      "count": 2,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "B7602733-D7E0-4F7A-B895-D1C62DB90708_1_102_a_yhlco9.jpg",
+      "name": "Red Wizard",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "B7C2C6DC-AFC6-4584-83CF-45C7163DC633_1_105_c_tjpern.jpg",
+      "name": "Goblin",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "B9B0BAA7-4487-486D-B802-F5C51A8D7A5E_1_105_c_iwwmj7.jpg",
+      "name": "Goblin",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "B9D732A1-9B9D-44D5-A763-1F26F72ED9CF_1_102_a_f7drvt.jpg",
+      "name": "Grick",
+      "count": 1,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "B9EF9503-A246-4848-8BA3-44D096A2E67A_1_105_c_psqslh.jpg",
+      "name": "Gnome",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "BA5FF494-37AF-4814-ADE3-7EC18997E11C_1_105_c_m5cx7r.jpg",
+      "name": "Bugbear",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "BA9C5DA1-D1B5-43D4-BA99-AB3F9C3E35F7_1_102_a_snuphg.jpg",
+      "name": "Scarecrow",
+      "count": 3,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "BAF26682-3305-4EFB-83E7-327F7996B4F5_1_102_a_kolm0w.jpg",
+      "name": "Carrion Crawler",
+      "count": 2,
+      "creatureType": "Monstrosity"
+  },
+  {
+      "fileName": "BC138EB0-6F9A-4942-88D8-9FB9C56E0329_1_102_a_veuahx.jpg",
+      "name": "Ogre",
+      "count": 1,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "BDB19502-8EA2-4ADF-A153-430F929B2ABA_1_105_c_kxsr7h.jpg",
+      "name": "Drow",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "BF000309-4FCD-46CF-8819-3BA785FFCCC4_1_105_c_gkbik7.jpg",
+      "name": "Kuo-toa",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "BF917B40-D918-441B-9C11-26854124FE87_1_102_a_fykhg9.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "C02714EF-781D-4CF1-B586-909C8106D3AD_1_105_c_gcyjpc.jpg",
+      "name": "Dragonborn",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "C1377801-DD22-4A03-BD06-28CE95B50B6E_1_102_a_a7cnto.jpg",
+      "name": "Wereboar",
+      "count": 3,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "C2468B35-6B40-4091-9DE3-43A133F857FB_1_102_a_cpggqz.jpg",
+      "name": "Wight",
+      "count": 2,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "C2998AAF-C8FD-475F-9C9D-A87467483243_1_102_a_gj89w2.jpg",
+      "name": "Unicorn",
+      "count": 1,
+      "creatureType": "Celestial"
+  },
+  {
+      "fileName": "C521A8DC-9020-427B-A9D4-80AF58EF7F36_1_105_c_lgksov.jpg",
+      "name": "Quadrone",
+      "count": 1,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "C7766D73-2AE1-4B2F-99E8-AE904F5D49C8_1_102_a_hw1fdk.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "C8CDFB8A-58BC-475A-9FE5-98C2A44726C3_1_105_c_ykppgv.jpg",
+      "name": "Cyclops",
+      "count": 1,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "C8D68FC3-4A0C-4211-85F6-565E59E01935_1_102_a_u9n972.jpg",
+      "name": "Galeb Duhr",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "CA8B559D-EF62-4A15-A170-E06F744804D8_1_105_c_ubo3bv.jpg",
+      "name": "Goblin",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "CB34797C-299B-4C21-88E9-0358998274B0_1_105_c_fb2qgc.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "CC3B6C2E-8194-4171-902C-E55BA890153C_1_105_c_ndwzps.jpg",
+      "name": "Horned Devil",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "CC86B5B4-A01C-4876-8DE9-29D242E17403_1_102_a_ulxvuj.jpg",
+      "name": "Yochlol",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "CD2B4C8C-A4AA-4977-A772-886ADF1EAC18_1_105_c_lidxum.jpg",
+      "name": "Blue Dragon",
+      "count": 1,
+      "creatureType": "Dragon"
+  },
+  {
+      "fileName": "CD904DE1-8039-4D6B-B378-69D1AC74278A_1_102_a_aalrgd.jpg",
+      "name": "Winter Wolf",
+      "count": 2,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "CED223C8-6277-4847-98CE-78A5B0A851CF_1_105_c_qfhsa3.jpg",
+      "name": "Twig Blight",
+      "count": 1,
+      "creatureType": "Plant"
+  },
+  {
+      "fileName": "CF1E12D0-01AC-46F8-AA2B-1624CAE446D5_1_102_a_gx4bcs.jpg",
+      "name": "Death Slaad",
+      "count": 1,
+      "creatureType": "Aberration"
+  },
+  {
+      "fileName": "CF39647B-6EA5-4AE5-89A8-E963DC735856_1_102_a_cq1aqu.jpg",
+      "name": "Invisible Stalker",
+      "count": 1,
+      "creatureType": "Elemental"
+  },
+  {
+      "fileName": "D05CB83C-C4A3-43BF-AA14-0FF2378CC41B_1_102_a_fbhm3a.jpg",
+      "name": "Phantom Warrior",
+      "count": 2,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "D3D1AB96-600A-41E2-A397-5795878AD40A_1_102_a_yjqxot.jpg",
+      "name": "Tressym",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "D43C9C36-D6F9-474A-996B-2E9FE5FA9539_1_102_a_m7ztqv.jpg",
+      "name": "Tiefling",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "D5E3338C-0AAA-4FCA-A632-116F414F63E4_1_105_c_uq1owu.jpg",
+      "name": "Ice Devil",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "D682A007-1FB1-47A1-B771-D93000D1104D_1_102_a_rjqvtp.jpg",
+      "name": "Green Hag",
+      "count": 1,
+      "creatureType": "Fey"
+  },
+  {
+      "fileName": "DA1B7E1F-4133-4463-AE38-73E883E3F015_1_102_a_fcyisa.jpg",
+      "name": "Wolf Spider",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "DB3897E1-C533-4A1E-B820-4A2A87922461_1_105_c_gz45bo.jpg",
+      "name": "Fire Giant",
+      "count": 1,
+      "creatureType": "Giant"
+  },
+  {
+      "fileName": "DBA2908E-6CAA-480E-AFC6-E4B8A0EEEB29_1_105_c_skne1a.jpg",
+      "name": "Blue Dragon",
+      "count": 1,
+      "creatureType": "Dragon"
+  },
+  {
+      "fileName": "DCAF4050-6444-4E7C-BBC7-2D3B3D18FC15_1_105_c_ivzkre.jpg",
+      "name": "Flesh Golem",
+      "count": 1,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "DD2D1228-3F38-4504-AF06-0D9FB519B427_1_102_a_z3rqg2.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "DE3262D6-FE8A-4217-A489-34A738D2B81C_1_102_a_zkgguz.jpg",
+      "name": "Thri-kreen",
+      "count": 2,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "DE330569-91FF-4756-A6C3-0FCA0AE3D346_1_102_a_b4ziwi.jpg",
+      "name": "Annis Hag",
+      "count": 1,
+      "creatureType": "Fey"
+  },
+  {
+      "fileName": "DEF11EDD-0FAB-4035-967F-C6F56335EE64_1_102_a_kgmgxx.jpg",
+      "name": "Arcanaloth",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "DF91E051-EF91-40CF-82DB-D5A3CC1E0E39_1_102_a_aeorbp.jpg",
+      "name": "Spined Devil",
+      "count": 3,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "DF990559-6670-4C68-BCAF-EB897DA9AECB_1_105_c_n1d5qb.jpg",
+      "name": "Halfling",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "DFC01ADE-9645-4EAE-86C4-CD0546F56768_1_102_a_odyovu.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "E06794A0-D308-49B0-937E-261729703D06_1_102_a_gvwt9i.jpg",
+      "name": "Spiritual Weapon",
+      "count": 1,
+      "creatureType": "Spell Effect"
+  },
+  {
+      "fileName": "E06BCB81-9758-4DCB-BC8E-6016791AAA87_1_102_a_fisvg0.jpg",
+      "name": "Dancing Lights",
+      "count": 1,
+      "creatureType": "Spell Effect"
+  },
+  {
+      "fileName": "E16938C0-A1C5-4771-8CB8-64DC75919895_1_102_a_hloq0l.jpg",
+      "name": "Skeleton",
+      "count": 1,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "E3659C53-C171-4F37-A2A6-35262DEF82E3_1_105_c_meqyxf.jpg",
+      "name": "Iron Golem",
+      "count": 1,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "E394C38F-A55C-428D-A762-E4B898CBC2B1_1_105_c_ryfjvm.jpg",
+      "name": "Homunculus",
+      "count": 2,
+      "creatureType": "Construct"
+  },
+  {
+      "fileName": "E3DC47F2-279B-4DE3-AA58-EAD6EADCAA58_1_102_a_whlxbj.jpg",
+      "name": "Thug",
+      "count": 3,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "E61C572D-9D43-4E75-9034-147584FFF4B4_1_105_c_uhlntw.jpg",
+      "name": "Goblin",
+      "count": 3,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "E6638EA7-0D68-4CC8-9306-6B82F953ABE2_1_105_c_gh57fa.jpg",
+      "name": "Merregon",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "E7739719-C165-4E14-A7F1-ECEE5DB2CC52_1_105_c_bpsp0r.jpg",
+      "name": "Orc",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "E7E0F1CB-9EE2-4B30-9F85-9AEAE8017FE6_1_105_c_mmc9nz.jpg",
+      "name": "Ooze",
+      "count": 4,
+      "creatureType": "Ooze"
+  },
+  {
+      "fileName": "E85F61A0-46F3-4EB0-B8C6-0A5B36A6DADB_1_105_c_j5gmtj.jpg",
+      "name": "Faerie Dragon",
+      "count": 1,
+      "creatureType": "Dragon"
+  },
+  {
+      "fileName": "EB367987-0DDF-4987-9454-FDA68C32D537_1_105_c_chz6ut.jpg",
+      "name": "Wyvern",
+      "count": 1,
+      "creatureType": "Dragon"
+  },
+  {
+      "fileName": "EBDD7BA9-F0FD-43A2-B701-188C7C858810_1_105_c_ux0tsv.jpg",
+      "name": "Dretch",
+      "count": 5,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "EC1694C5-4F88-4BE4-818E-DB46167A2D5E_1_105_c_dbylpv.jpg",
+      "name": "Berbalang",
+      "count": 1,
+      "creatureType": "Aberration"
+  },
+  {
+      "fileName": "EC97D24B-5E13-404F-BB45-F3A3ED9B5517_1_105_c_awr6al.jpg",
+      "name": "Kenku",
+      "count": 4,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "EDD240DE-DD36-4FDF-9E71-83FF33EAE2FF_1_105_c_v3gj3b.jpg",
+      "name": "Bandit",
+      "count": 3,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "EE6AFE85-53BE-4501-9C7C-67B508720BA6_1_102_a_dv5vpv.jpg",
+      "name": "Grimlock",
+      "count": 4,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "EED95255-ECCE-4AAB-858F-E15AAEC317E3_1_105_c_frbcyq.jpg",
+      "name": "Kobold",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "EF0D70C1-DC71-4E8B-86C7-B2E4C5659A57_1_102_a_arjymd.jpg",
+      "name": "Tenser's Floating Disk",
+      "count": 1,
+      "creatureType": "Spell Effect"
+  },
+  {
+      "fileName": "F01B3A36-A923-4BF1-86F0-8B0AF77BA065_1_105_c_nvlw3f.jpg",
+      "name": "Orog",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "F02FE620-CF68-4B2D-B4B3-299A82E0C7C8_1_105_c_ktvo9r.jpg",
+      "name": "Kraken Priest",
+      "count": 4,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "F4343524-B1FA-40F6-A797-69EE503B640C_1_105_c_bk68y6.jpg",
+      "name": "Balgura",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "F43A2143-1428-44BA-A465-7831A475A08D_1_102_a_urkhko.jpg",
+      "name": "Human",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "F44D31FD-24E0-4BAF-BBEB-8D9952622412_1_105_c_sijlrz.jpg",
+      "name": "Goliath",
+      "count": 4,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "F83A10EA-EFCC-4FEB-96B8-FB54928D0B92_1_102_a_s9xj3u.jpg",
+      "name": "Hypnotic Spirit",
+      "count": 3,
+      "creatureType": "Undead"
+  },
+  {
+      "fileName": "F8AD72BC-0760-410A-83F5-985752714B89_1_105_c_ccsrwn.jpg",
+      "name": "Orc",
+      "count": 2,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "FC734D01-793E-4FC6-90EC-1032AFEDC7E7_1_105_c_mg3ojp.jpg",
+      "name": "Hell Hound",
+      "count": 2,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "FCD334F2-AE18-4990-A04D-90DA78AFCC10_1_105_c_x7qq9o.jpg",
+      "name": "Dwarf",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "FD455BE5-60DA-4A3A-9DE9-9D9038BEF99F_1_102_a_ob8rhj.jpg",
+      "name": "Werewolf",
+      "count": 1,
+      "creatureType": "Humanoid"
+  },
+  {
+      "fileName": "FD8215AD-0AB3-4EF7-B224-F7FA8E7530A7_1_102_a_uwdlkf.jpg",
+      "name": "Phase Spider",
+      "count": 1,
+      "creatureType": "Beast"
+  },
+  {
+      "fileName": "FEBBA70A-6C22-4BE3-BA92-DDAB97291DF6_1_105_c_hnrrji.jpg",
+      "name": "Incubus",
+      "count": 1,
+      "creatureType": "Fiend"
+  },
+  {
+      "fileName": "FF3F4AA3-4348-4691-84AE-FF6B9FAB1D6D_1_102_a_mqvmtt.jpg",
+      "name": "Spiritual Weapon",
+      "count": 1,
+      "creatureType": "Spell Effect"
+  },
+  {
+      "fileName": "FF54D312-43DE-49BD-93ED-8523600236D1_1_105_c_keik1m.jpg",
+      "name": "Ettercap",
+      "count": 3,
+      "creatureType": "Monstrosity"
+  }
+]
