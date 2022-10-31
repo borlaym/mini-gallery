@@ -64,7 +64,12 @@ function App() {
   }, [])
 
   const dataToShow = data
-    .sort((a, b) => a.name > b.name ? 1 : -1)
+    .sort((a, b) => {
+      if (a.name === b.name) {
+        return a.fileName > b.fileName ? 1 : -1
+      }
+      return a.name > b.name ? 1 : -1
+    })
     .filter(a => a.name.toLowerCase().includes(query.toLowerCase()))
 
   return (
