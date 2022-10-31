@@ -20,11 +20,47 @@ const Search = styled.input`
   font-size: 20px;
 `
 
+const FullImage = styled.div`
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(10px);
+
+  img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 90%;
+    max-height: 90%;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+  }
+`
+
 function App() {
   const [query, setQuery] = useState("")
+  const [fullImage, setFullImage] = useState<Mini | null>(null)
 
   const handleInputChange = useCallback((event: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(event.target.value)
+  }, [])
+
+  const handleTileClick = useCallback((fileName: string) => {
+    const mini = data.find(mini => mini.fileName === fileName)
+    if (mini) {
+      setFullImage(mini)
+    }
+  }, [])
+
+  const handleCancel = useCallback(() => {
+    setFullImage(null)
   }, [])
 
   const dataToShow = data
@@ -36,9 +72,18 @@ function App() {
       <Search type="search" value={query} onChange={handleInputChange} />
       <Container>
         {dataToShow.map((mini: Mini) => (
-          <Tile mini={mini} key={mini.fileName} />
+          <Tile
+            mini={mini}
+            key={mini.fileName}
+            onClick={handleTileClick}
+          />
         ))}
       </Container>
+      {fullImage && (
+        <FullImage onClick={handleCancel}>
+          <img src={`https://res.cloudinary.com/adventcalendar/image/upload/miniatures/${fullImage.fileName}`} alt={fullImage.fileName} />
+        </FullImage>
+      )}
     </div>
 
   );

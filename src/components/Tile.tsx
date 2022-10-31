@@ -1,9 +1,10 @@
-import React from 'react'
+import React, { useCallback } from 'react'
 import { Mini } from '../types'
 import styled from '@emotion/styled'
 
 type Props = {
-  mini: Mini
+  mini: Mini;
+  onClick: (fileName: string) => void;
 }
 
 const TileContainer = styled.div`
@@ -12,6 +13,7 @@ const TileContainer = styled.div`
   margin: 10px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
   position: relative;
+  cursor: pointer;
 `
 
 const Name = styled.div`
@@ -36,8 +38,9 @@ const Count = styled.div`
 
 export default function Tile(props: Props) {
   const imgUrl = `https://res.cloudinary.com/adventcalendar/image/upload/w_200/miniatures/${props.mini.fileName}`
+  const handleClick = useCallback(() => props.onClick(props.mini.fileName), [])
   return (
-    <TileContainer>
+    <TileContainer onClick={handleClick}>
       <img src={imgUrl} loading="lazy" alt={props.mini.name}/>
       <Name>{props.mini.name}</Name>
       {props.mini.count > 1 && (
