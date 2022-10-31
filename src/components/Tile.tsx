@@ -14,6 +14,16 @@ const TileContainer = styled.div`
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
   position: relative;
   cursor: pointer;
+
+  @media (max-width: 430px) {
+    width: 140px;
+    height: 140px;
+
+    img {
+      width: 140px;
+      height: 140px;
+    }
+  }
 `
 
 const Name = styled.div`
@@ -25,6 +35,11 @@ const Name = styled.div`
   font-weight: bold;
   padding-bottom: 4px;
   color: rgba(0, 0, 0, 0.7);
+
+  @media (max-width: 430px) {
+    font-size: 0.8em;
+    padding-bottom: 2px;
+  }
 `
 
 const Count = styled.div`
