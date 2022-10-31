@@ -69,7 +69,7 @@ function App() {
 
   return (
     <div>
-      <Search type="search" value={query} onChange={handleInputChange} />
+      <Search type="search" value={query} onChange={handleInputChange} placeholder="Search..." />
       <Container>
         {dataToShow.map((mini: Mini) => (
           <Tile
