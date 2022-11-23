@@ -1960,5 +1960,275 @@
         "name": "Ettercap",
         "count": 3,
         "creatureType": "Monstrosity"
+    },
+    {
+        "fileName": "04D6E9DE-1A62-4436-8E88-D18F89156D31_1_105_c_chorkd.jpg",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "0521AE05-571D-4884-9ED8-0B08CC6C9AE8_1_102_a_wpfnlv.jpg",
+        "name": "Mercane",
+        "count": 2,
+        "creatureType": "Aberration"
+    },
+    {
+        "fileName": "08AAAE97-CDE6-4939-8093-A369FD3A07E2_1_102_a_njukao.jpg",
+        "name": "Jammer Leech",
+        "count": 4,
+        "creatureType": "Plant"
+    },
+    {
+        "fileName": "121B3EF6-C3AC-46BA-83C2-2F38DFA7E963_1_105_c_avwnyc.jpg",
+        "name": "Solar Dragon",
+        "count": 1,
+        "creatureType": "Dragon"
+    },
+    {
+        "fileName": "149A1665-8F98-4F30-AB64-C999D33EE6BB_1_105_c_q2nvpy.jpg",
+        "name": "Astral Elf",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "14E3D139-5FE5-4488-915B-A624F276C473_1_105_c_se6grm.jpg",
+        "name": "Astral Elf",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "1680F545-0418-4EDC-9C64-7B42E5F8114D_1_105_c_p3iiyb.jpg",
+        "name": "Beholder",
+        "count": 1,
+        "creatureType": "Aberration"
+    },
+    {
+        "fileName": "17661783-E2C3-4AAB-A340-6B9550674FC7_1_105_c_wsgs10.jpg",
+        "name": "Reigar",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "259C3466-4159-4934-9142-3E2150D42E76_1_105_c_fihlmb.jpg",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "30F89530-29CE-4589-859C-EE04188E506D_1_105_c_fkzby5.jpg",
+        "name": "Neogi",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "38103238-B28C-48DA-957C-5B7F6ABBAAEB_1_105_c_hfydns.jpg",
+        "name": "Aartuk",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "40DCF02D-DE51-4BA9-B893-3B87573C114F_1_102_a_p5xf4z.jpg",
+        "name": "Umber Hulk",
+        "count": 4,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "421171F6-FC1B-473E-9E3B-AD5C58A50322_1_105_c_qsvg8q.jpg",
+        "name": "Hadozee",
+        "count": 4,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "5F391B31-2F7E-4FB1-ADEA-137BC28A0BA4_1_105_c_enueuk.jpg",
+        "name": "Ulitharid",
+        "count": 4,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "61411243-8A10-4206-A277-7571B18E35F6_1_105_c_vg6yeg.jpg",
+        "name": "Psurlon",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "616A04D8-8CBE-4F06-833E-004E97E6BCB0_1_105_c_idh3qa.jpg",
+        "name": "Giant Space Hamster",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "61D5A359-8724-4518-8D9E-39293A7AA3D8_1_105_c_aoncko.jpg",
+        "name": "B'rohg",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "68EAB9F4-7653-407E-80E3-A3567C25D61F_1_102_a_qaejar.jpg",
+        "name": "Dohwar",
+        "count": 2,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "6AA87796-E04C-46BC-BEAF-F310C516ECA0_1_105_c_r6yldp.jpg",
+        "name": "Zodar",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "7533EBE8-92D0-4942-B753-D7C9D4E981D3_1_105_c_q7kedi.jpg",
+        "name": "Plasmoid",
+        "count": 5,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "7F76D32F-5D7A-4426-B525-83263CA3BE73_1_105_c_mmfg8k.jpg",
+        "name": "Hadozee",
+        "count": 4,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "85499FE3-FA4E-4000-A520-87B82BBF67AE_1_105_c_hwkgv5.jpg",
+        "name": "Autognome",
+        "count": 6,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "8AD4D737-58F6-4C25-9BD7-F9FAE590D306_1_105_c_pi389f.jpg",
+        "name": "Flumph",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "8EA98D6F-7A18-47C5-8B52-43BF4BB48C8F_1_105_c_hewaxz.jpg",
+        "name": "Eyemonger",
+        "count": 4,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "8F08E85C-E28F-4DC2-AF0F-2591ED160BF2_1_105_c_crawjx.jpg",
+        "name": "Braxat",
+        "count": 2,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "98AC38A2-54AA-4452-AAAD-E656E2EA2E80_1_102_a_bgsmtq.jpg",
+        "name": "Spelljamming Helm",
+        "count": 3,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "A3169A28-52DB-4601-A097-8BEB538A9DB6_1_105_c_g4avub.jpg",
+        "name": "Murder Comet",
+        "count": 4,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "A5EA0576-9C57-4EBF-809C-90BCFC97C1D5_1_105_c_edoh6f.jpg",
+        "name": "Astral Elf",
+        "count": 6,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "AA51BC0D-B3C6-4FD2-9560-EE7BE2D57D40_1_105_c_ub3ocy.jpg",
+        "name": "Feyr",
+        "count": 2,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "B08BCBF6-D5E2-46A3-8CBB-17E545B3C11E_1_102_a_jtzbzh.jpg",
+        "name": "Chwinga",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "B902E98E-A622-413D-8501-5833209ACAAA_1_105_c_x6j4nn.jpg",
+        "name": "Neh-thalggu",
+        "count": 2,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "C07A7673-D413-4CC6-B955-60EF02CE5615_1_105_c_iocsh7.jpg",
+        "name": "Giff",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "C1DF4570-0E47-4EEB-AF43-E78F1381D612_1_105_c_h3j6uh.jpg",
+        "name": "Dohwar",
+        "count": 4,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "C5929CA3-9E51-493E-91EA-E8743C374A7C_1_105_c_v3zpcs.jpg",
+        "name": "Astral Elf",
+        "count": 2,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "C6D2B6CF-2BA7-4A99-AE0A-53C4CC6D6CBD_1_105_c_syuuhw.jpg",
+        "name": "Chwinga",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "D6FC48FF-184E-4B39-97B1-F5AAF9231C76_1_105_c_w6iimp.jpg",
+        "name": "Astral Blight",
+        "count": 4,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "E062A3E2-E23E-4B2F-8144-3A1746B1337D_1_105_c_tf0kyb.jpg",
+        "name": "Giff",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "E5A1E088-3687-46B0-8DD2-932A17167FBE_1_105_c_v8dzxd.jpg",
+        "name": "Graj",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "EBB890A6-D977-41BA-8C72-9DEF132BE0F5_1_105_c_sgpzac.jpg",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "ED74729C-1FBB-4B7A-B9FB-E38E49FE899E_1_105_c_hzn235.jpg",
+        "name": "Giff",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "EFDACBC6-76CF-4D67-83CF-2B961B554993_1_105_c_toghs8.jpg",
+        "name": "Thri-kreen",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "F114C923-77B2-44B6-95E7-5E6ABF3180C1_1_102_a_gnel90.jpg",
+        "name": "Tiefling",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "F9734ABE-FDE2-4B05-AB9E-EF856E375021_1_102_a_iiqtwy.jpg",
+        "name": "Reigar",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "FEBD34A7-CE0E-41F2-B8F3-823B11E331C7_1_105_c_dtmcdt.jpg",
+        "name": "Void Scavver",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "FFB94CCD-0CC4-4ACA-809D-1CC78FF6DCF9_1_102_a_hdrmdd.jpg",
+        "name": "Ssurran",
+        "count": 4,
+        "creatureType": "?"
     }
 ]
