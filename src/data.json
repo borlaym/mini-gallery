@@ -2230,5 +2230,269 @@
         "name": "Ssurran",
         "count": 4,
         "creatureType": "?"
+    },
+    {
+        "fileName": "01CC9FF8-0EF3-45EF-92C3-6EEFCF29909C_1_105_c_ajnhrl.jpg",
+        "name": "Shark",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "0A372E20-2450-4956-B0BE-5CF0E57FC824_1_105_c_brnsn5.jpg",
+        "name": "White Abishai",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "10708588-9C7B-4761-B853-EAEE0F0BA225_1_105_c_xy9yzk.jpg",
+        "name": "Forcecage",
+        "count": 1,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "1EAB7C11-C16A-4403-A7A1-784852F9EBC9_1_105_c_g0kvne.jpg",
+        "name": "Giant Ape",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "20DC0211-1595-4FAA-9518-B0D665281D69_1_105_c_qdpij3.jpg",
+        "name": "Giant Frog",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "2148708C-3201-4189-9E18-F28039697082_1_105_c_xertvy.jpg",
+        "name": "Guardian of Faith",
+        "count": 1,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "21CCFED9-C997-41DA-B52C-33077A8E4DF1_1_105_c_qwr40y.jpg",
+        "name": "Manticore",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "255CA4DC-DEF9-4DDD-AFFF-A0E6CC0DEABD_1_105_c_zjehif.jpg",
+        "name": "Arcane Eye",
+        "count": 1,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "26771F95-F862-4E95-BD5C-C6952FFEA3ED_1_105_c_kwjoon.jpg",
+        "name": "Owl",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "2B1B9B7D-A6F4-47B8-99EC-9E0C53351A90_1_105_c_ttxfx0.jpg",
+        "name": "Tortle",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "3104972B-DB5A-4DED-8362-2A583BCEFAA0_1_105_c_owp2r7.jpg",
+        "name": "Giant Boar",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "329A2688-A335-4B58-85E2-C27A4C34B90D_1_105_c_sonxes.jpg",
+        "name": "Sahuagin",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "34D54C77-749B-4BCC-9A57-F56EF23C1199_1_105_c_hf5od8.jpg",
+        "name": "Tiger",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "36327674-4B27-481C-A2CC-9E10C9BFC28A_1_105_c_jre7ze.jpg",
+        "name": "Bones of the Earth",
+        "count": 6,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "38B7F151-3560-4B8D-A104-20DA2981196C_1_105_c_swlj43.jpg",
+        "name": "Leomund’s Secret Chest",
+        "count": 1,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "4E03C46D-CFA0-4F81-9802-DF7CF57070D9_1_105_c_kithtu.jpg",
+        "name": "Fire Snake",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "51348901-71E3-49AA-AE42-254176343683_1_105_c_zcsyp6.jpg",
+        "name": "Troll",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "56446C69-FE1B-41B4-AB50-95E031CEDB8D_1_105_c_yb0fs7.jpg",
+        "name": "Flaming Sphere",
+        "count": 1,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "5788222F-5310-495F-ACEA-ACD03BC63591_1_105_c_lhkvi6.jpg",
+        "name": "Berserker",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "6283B652-0B88-4963-8C96-BDB735E642CA_1_105_c_zrfnj0.jpg",
+        "name": "Dire Wolf",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "6B84F827-4CBC-4BC9-BFB9-DB8E536E1A19_1_105_c_vo2zre.jpg",
+        "name": "Dragonborn",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "6F81B0F5-CF56-40E4-BDCA-6917EC7EC0A2_1_105_c_utza1r.jpg",
+        "name": "Rat",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "7B31A2E7-AA0A-458C-B8AE-6462BDD0D5C5_1_105_c_ifp5k1.jpg",
+        "name": "Bonfire",
+        "count": 1,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "805B7EB9-AAD3-4442-9FB6-602260E1D740_1_105_c_hin3ed.jpg",
+        "name": "Giant Scorpion",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "821C3D66-3D5A-4F86-B447-B589E989B000_1_105_c_ia8dbc.jpg",
+        "name": "Sahuagin",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "85A73697-8366-47D0-970C-01D6FB3EF08B_1_105_c_nk6vj6.jpg",
+        "name": "Rope Trick",
+        "count": 1,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "879BE4D4-7736-4352-B114-2D75F6584677_1_105_c_yjsfd7.jpg",
+        "name": "Mordenkainen’s Faithful Hound",
+        "count": 1,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "88757071-D090-49F2-AFB0-63FFFA19C41A_1_105_c_laxtkr.jpg",
+        "name": "Healing Spirit",
+        "count": 1,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "8A827919-3AFE-49C0-9790-DEBE825144FF_1_105_c_eqzvld.jpg",
+        "name": "Girallon",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "8BCE428B-E7DB-4057-B063-7E6FFA50DFF3_1_105_c_jfqmbf.jpg",
+        "name": "Sahuagin",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "9CD88A2C-73DD-4B94-84C3-947EFA3026DF_1_105_c_lytjyw.jpg",
+        "name": "Giant Wolf Spider",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "9E117F65-4033-41CA-ABAE-3234F7C6015A_1_105_c_wyvsfy.jpg",
+        "name": "Brown Bear",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "9F64A531-3B50-4B76-918A-4976A8EA711E_1_105_c_nkvrja.jpg",
+        "name": "Sahuagin",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "A071B834-DFB8-460D-A860-DF4D46715044_1_105_c_mfearr.jpg",
+        "name": "Octopus",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "A5B92AFB-1358-4761-A0D0-06121D75A0AC_1_105_c_uvqmps.jpg",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "AC7A72E5-C136-4E14-BFD4-18C85ED51EAC_1_105_c_iv0pbd.jpg",
+        "name": "Minotaur",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "B2FA98E0-9E32-49E2-BC2D-3C5CF3841978_1_105_c_xw3pqo.jpg",
+        "name": "Cat",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "C2465CD7-C9BB-425E-A2F8-13CAF120F0EE_1_105_c_wnrgbm.jpg",
+        "name": "Polar Bear",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "D632288D-25F6-4D67-978C-E1C628CEDA23_1_105_c_px99nr.jpg",
+        "name": "Healing Spirit",
+        "count": 1,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "F1C1F946-16A8-4E11-9D20-24ACE1AC8001_1_105_c_rqkwgw.jpg",
+        "name": "Fire Beetle",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "F4BA5B49-C6AF-486B-90ED-493AD61B13D3_1_105_c_dkxwok.jpg",
+        "name": "Maximilian’s Earthen Grasp",
+        "count": 1,
+        "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "FB0D80ED-D96A-4FE1-9CBB-E5BA904412EB_1_105_c_sj4jcp.jpg",
+        "name": "Sahuagin",
+        "count": 2,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "FC74B08E-B6D7-43F3-A4F3-C18CDDF40878_1_105_c_hvrykz.jpg",
+        "name": "Giant Eagle",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "FE2F8673-F0E8-4B2F-BB1D-AA4A8847382C_1_105_c_frnnsx.jpg",
+        "name": "Dancing Light",
+        "count": 4,
+        "creatureType": "Spell Effect"
     }
 ]
