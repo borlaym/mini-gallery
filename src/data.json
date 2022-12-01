@@ -578,7 +578,7 @@
     {
         "fileName": "4576B49F-4291-4F52-A5D8-C1BB25E2D8B3_1_105_c_perd6a.jpg",
         "name": "Flumph",
-        "count": 1,
+        "count": 2,
         "creatureType": "Aberration"
     },
     {
@@ -2438,7 +2438,7 @@
     {
         "fileName": "A5B92AFB-1358-4761-A0D0-06121D75A0AC_1_105_c_uvqmps.jpg",
         "name": "Human",
-        "count": 1,
+        "count": 2,
         "creatureType": "Humanoid"
     },
     {
@@ -2494,5 +2494,167 @@
         "name": "Dancing Light",
         "count": 4,
         "creatureType": "Spell Effect"
+    },
+    {
+        "fileName": "0B61E438-5ACB-4376-9045-4A38AC4F4F99_1_102_a_gtj0ry.jpg",
+        "name": "Kobold",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "17114816-58F0-4D20-A39B-AE2AFA7CD193_1_102_a_x7fxyo.jpg",
+        "name": "Space Clown",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "204487B3-7947-4E20-AB43-85DD4BBFBB39_1_102_a_rrdlro.jpg",
+        "name": "Giant Frog",
+        "count": 1,
+        "creatureType": "Beast"
+    },
+    {
+        "fileName": "2E63E5A3-BC69-48C4-AB27-7C8E5B48727D_1_102_a_nuazwq.jpg",
+        "name": "Guard",
+        "count": 3,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "2F0BB868-33A9-4B2B-BA58-5C6D53328CE8_1_102_a_ikiq1k.jpg",
+        "name": "Intellect Devourer",
+        "count": 1,
+        "creatureType": "Aberration"
+    },
+    {
+        "fileName": "4A69BA2B-2DA4-4CF6-828B-D3A16145ABC6_1_102_a_vcs6ds.jpg",
+        "name": "Frost Salamander",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "4DBC123A-5DBF-44E2-80AE-7C75B6ED600D_1_102_a_wcecoa.jpg",
+        "name": "Berserker",
+        "count": 3,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "7297B499-3E49-417F-B48B-FD76226FADCA_1_102_a_xo1bvc.jpg",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "7D1993F7-B2F5-45D5-89EC-12BF55A1266D_1_102_a_cv2rlw.jpg",
+        "name": "Tiefling",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "88802A9C-1C19-410A-86E6-44901C5DAD41_1_102_a_ouubyz.jpg",
+        "name": "Skeletal Warhorse",
+        "count": 2,
+        "creatureType": "Undead"
+    },
+    {
+        "fileName": "8BE05F21-39A0-4D02-8B1A-4072422C89FB_1_102_a_pgqbaa.jpg",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "957CC6A2-94BE-4229-B9F7-D03C77A7EFEA_1_102_a_pqxjmq.jpg",
+        "name": "Gargoyle",
+        "count": 2,
+        "creatureType": "Construct"
+    },
+    {
+        "fileName": "9D1983D9-8471-473A-A779-FAF286DAE109_1_102_a_kqsg4p.jpg",
+        "name": "Green Dragon Whelp",
+        "count": 1,
+        "creatureType": "Dragon"
+    },
+    {
+        "fileName": "A2844524-1F7A-4C3F-A385-87E9FCB1F804_1_102_a_oh6r9f.jpg",
+        "name": "Cloaker",
+        "count": 2,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "A3B5AD70-5554-42B1-8935-96CF00F9D485_1_102_a_cuhtjx.jpg",
+        "name": "Kobold",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "B7BFB63B-C6AF-472F-8680-19A87F67AD9D_1_102_a_y0yqq6.jpg",
+        "name": "Space Clown",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "B84876F2-B975-4FE6-B715-22D7FB632F41_1_102_a_z4ucuk.jpg",
+        "name": "Otyugh",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "BC189742-C860-4C48-94EF-F94178FBE990_1_102_a_vrozvr.jpg",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "BE382E7A-EA69-4411-B5BA-5685517F53F1_1_102_a_vpnefb.jpg",
+        "name": "Elf",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "C1A664BF-D0E8-4C12-900F-0F719751285C_1_102_a_ltxjkp.jpg",
+        "name": "Veteran",
+        "count": 1,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "CB79991D-89EE-4500-A2ED-EA5EC3519B0E_1_102_a_xhor3a.jpg",
+        "name": "Gray Ooze",
+        "count": 2,
+        "creatureType": "Ooze"
+    },
+    {
+        "fileName": "CEC45362-BAA4-4190-8784-9F75B4FFDBCB_1_102_a_tlukac.jpg",
+        "name": "Xvart",
+        "count": 4,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "CF4A5BCC-31D4-41A3-8186-629D90B53C42_1_102_a_eb0sm6.jpg",
+        "name": "Veteran",
+        "count": 3,
+        "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "DB151692-56B9-4AC0-BFFF-0B41428CC195_1_102_a_eomvqo.jpg",
+        "name": "Darkling",
+        "count": 3,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "DD549F2F-305B-42B4-8D23-50E18D378E16_1_102_a_kawext.jpg",
+        "name": "Blue Dragon Whelp",
+        "count": 1,
+        "creatureType": "Dragon"
+    },
+    {
+        "fileName": "F9014C56-C473-4C70-BF86-2DEE87B421D2_1_102_a_ppchti.jpg",
+        "name": "Beholder Zombie",
+        "count": 1,
+        "creatureType": "Undead"
+    },
+    {
+        "fileName": "FAC8D65B-A416-467F-9CB1-BDD5F97CE164_1_102_a_owfb4g.jpg",
+        "name": "Berserker",
+        "count": 3,
+        "creatureType": "Humanoid"
     }
 ]
