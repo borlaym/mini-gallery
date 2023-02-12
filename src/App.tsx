@@ -3,6 +3,7 @@ import Tile from './components/Tile';
 import data from './data.json'
 import { Mini } from './types';
 import styled from '@emotion/styled'
+import logo from './logo.png';
 
 const Container = styled.div`
   display: flex;
@@ -44,6 +45,19 @@ const FullImage = styled.div`
   }
 `
 
+const Logo = styled.img`
+  max-height: 200px;
+  max-width: 90%;
+  margin: 10px auto;
+  display: block;
+`
+
+const Description = styled.p`
+  text-align: center;
+  max-width: 400px;
+  margin: 10px auto;
+`
+
 function App() {
   const [query, setQuery] = useState("")
   const [fullImage, setFullImage] = useState<Mini | null>(null)
@@ -74,6 +88,8 @@ function App() {
 
   return (
     <div>
+      <Logo src={logo} />
+      <Description>Itt megtalálod klubunk mini gyűjteményét! A lista folyamatosan bővül, a friss érkezésekért kövesd <a href="https://www.facebook.com/vas.es.varazs">facebook oldalunkat</a>!</Description>
       <Search type="search" value={query} onChange={handleInputChange} placeholder="Search..." />
       <Container>
         {dataToShow.map((mini: Mini) => (
