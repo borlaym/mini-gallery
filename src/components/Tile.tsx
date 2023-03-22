@@ -51,16 +51,27 @@ const Count = styled.div`
   color: rgba(0, 0, 0, 0.7);
 `
 
+const NewIndicator = styled.span`
+  color: red;
+  font-style: italic;
+  font-size: 0.8em;
+  margin-left: 5px;
+;
+`
+
 export default function Tile(props: Props) {
   const imgUrl = `https://res.cloudinary.com/adventcalendar/image/upload/w_200/miniatures/${props.mini.fileName}`
   const handleClick = useCallback(() => props.onClick(props.mini.fileName), [])
   return (
     <TileContainer onClick={handleClick}>
       <img src={imgUrl} loading="lazy" alt={props.mini.name}/>
-      <Name>{props.mini.name}</Name>
+      <Name>{props.mini.name}{!!(props.mini.new) && (
+        <NewIndicator>Új</NewIndicator>
+      )}</Name>
       {props.mini.count > 1 && (
         <Count>{props.mini.count}x</Count>
       )}
+
     </TileContainer>
   )
 }
