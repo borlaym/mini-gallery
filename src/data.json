@@ -571,7 +571,7 @@
     },
     {
         "fileName": "4501495F-F77C-4A90-B294-DA885B1F2211_1_105_c_z4ganh.jpg",
-        "name": "Balgura",
+        "name": "Hezrou",
         "count": 1,
         "creatureType": "Fiend"
     },
@@ -1556,7 +1556,7 @@
     {
         "fileName": "C2998AAF-C8FD-475F-9C9D-A87467483243_1_102_a_gj89w2.jpg",
         "name": "Unicorn",
-        "count": 1,
+        "count": 2,
         "creatureType": "Celestial"
     },
     {
@@ -2445,7 +2445,7 @@
         "fileName": "AC7A72E5-C136-4E14-BFD4-18C85ED51EAC_1_105_c_iv0pbd.jpg",
         "name": "Minotaur",
         "count": 1,
-        "creatureType": "?"
+        "creatureType": "Monstrosity"
     },
     {
         "fileName": "B2FA98E0-9E32-49E2-BC2D-3C5CF3841978_1_105_c_xw3pqo.jpg",
@@ -2577,7 +2577,7 @@
         "fileName": "A2844524-1F7A-4C3F-A385-87E9FCB1F804_1_102_a_oh6r9f.jpg",
         "name": "Cloaker",
         "count": 2,
-        "creatureType": "?"
+        "creatureType": "Aberration"
     },
     {
         "fileName": "A3B5AD70-5554-42B1-8935-96CF00F9D485_1_102_a_cuhtjx.jpg",
@@ -2595,7 +2595,7 @@
         "fileName": "B84876F2-B975-4FE6-B715-22D7FB632F41_1_102_a_z4ucuk.jpg",
         "name": "Otyugh",
         "count": 1,
-        "creatureType": "?"
+        "creatureType": "Aberration"
     },
     {
         "fileName": "BC189742-C860-4C48-94EF-F94178FBE990_1_102_a_vrozvr.jpg",
@@ -2656,5 +2656,180 @@
         "name": "Berserker",
         "count": 3,
         "creatureType": "Humanoid"
+    },
+    {
+        "fileName": "FA492D67-0D47-47B3-8FE3-D70578B0134B_1_201_a_ae5lpz.jpg",
+        "name": "Berserker",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "F3F9D920-6971-475E-9BA9-71C422A77741_1_201_a_svfdja.jpg",
+        "name": "Firbolg",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "D496F18A-1053-435D-8ACE-F5E8D326C9AC_1_201_a_j6cba4.jpg",
+        "name": "Drow",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "EBC1D898-2A46-4173-817E-AA26F0E0CE60_1_201_a_nkxr7m.jpg",
+        "name": "Dragonborn",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "BBE6F1B1-F4C3-45D6-B9ED-41089E9FA52B_1_201_a_sullgq.jpg",
+        "name": "Black Dragon",
+        "count": 1,
+        "creatureType": "Dragon",
+        "new": "x"
+    },
+    {
+        "fileName": "D8AB3A20-9A2F-4D1D-ABE0-1E135E856E17_1_201_a_owhhfk.jpg",
+        "name": "Kobold",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "AA0F1FA4-1CAB-4D0F-BE0F-BD09459744BE_1_201_a_vsci6o.jpg",
+        "name": "Tabaxi",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "732580D2-0374-42D6-BC77-30589F04B268_1_201_a_c5s8kb.jpg",
+        "name": "Gnome",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "956110CB-A759-46AD-87F1-A09612CF29F3_1_201_a_qkoezw.jpg",
+        "name": "Commoner",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "73124F81-42B8-43DA-B711-2AB26E7DFA55_1_201_a_yn5z0j.jpg",
+        "name": "Grell",
+        "count": 1,
+        "creatureType": "Aberration",
+        "new": "x"
+    },
+    {
+        "fileName": "34966D59-6E02-410D-8D53-EC31DD0AFB42_1_201_a_ofml6q.jpg",
+        "name": "Drow",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "7540B6B9-34DA-4F90-B516-037E44FE14FC_1_201_a_pvxfeo.jpg",
+        "name": "Kobold",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "6204ADCF-6AE1-4498-80B9-F7DC5010C7A1_1_201_a_lmhy5z.jpg",
+        "name": "Gnoll",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "2339EE37-B6FA-4946-BBF0-65A6809A436A_1_201_a_taagsd.jpg",
+        "name": "Goblin",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "806A4B35-5EBC-4A88-8A61-49758C0C2A4B_1_201_a_nmodjw.jpg",
+        "name": "Grell",
+        "count": 3,
+        "creatureType": "Aberration",
+        "new": "x"
+    },
+    {
+        "fileName": "37F5C0FB-0C03-4093-A9B0-0E572EB8A14F_1_201_a_df5m4e.jpg",
+        "name": "Gazer",
+        "count": 2,
+        "creatureType": "Aberration",
+        "new": "x"
+    },
+    {
+        "fileName": "766FABF9-D84F-49EC-9C9D-3594CAD6275F_1_201_a_iegiha.jpg",
+        "name": "Kobold",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "194FC716-8971-493F-8BDF-64112CCF9EC3_1_201_a_gfzqp2.jpg",
+        "name": "Troll",
+        "count": 1,
+        "creatureType": "Monstrosity",
+        "new": "x"
+    },
+    {
+        "fileName": "6D652A3B-347B-44FF-A974-7B4EC4D09869_1_201_a_oapn0b.jpg",
+        "name": "Ettin",
+        "count": 1,
+        "creatureType": "Giant",
+        "new": "x"
+    },
+    {
+        "fileName": "40EADAAB-096D-42A7-9ED2-3481C9852F11_1_201_a_oadgoy.jpg",
+        "name": "Aasimar",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "10E7C5F0-41F6-4BAD-832D-A2A7877CCC31_1_201_a_xklsgb.jpg",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "70DED45C-5AA8-4F64-98BA-2BC376BA089E_1_201_a_fmnwgp.jpg",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "91CF6C90-F200-4AF0-A822-3E0389AB17D3_1_201_a_snq3s5.jpg",
+        "name": "Gnoll",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "9EFED41C-E118-444D-A9E0-06AD01517498_1_201_a_fianlh.jpg",
+        "name": "Kobold",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
+    },
+    {
+        "fileName": "1E210BCA-9374-471C-9C3A-1E92310B4C06_1_201_a_lynpwh.jpg",
+        "name": "Tiefling",
+        "count": 1,
+        "creatureType": "Humanoid",
+        "new": "x"
     }
 ]

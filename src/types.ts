@@ -3,6 +3,7 @@ type Mini = {
   name: string;
   count: number;
   creatureType: string;
+  new?: string;
 }
 
 export type { Mini }
