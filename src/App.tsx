@@ -58,9 +58,17 @@ const Description = styled.p`
   margin: 10px auto;
 `
 
+const NewToggle = styled.label`
+  display: block;
+  text-align: center;
+  max-width: 400px;
+  margin: 10px auto;
+`
+
 function App() {
   const [query, setQuery] = useState("")
   const [fullImage, setFullImage] = useState<Mini | null>(null)
+  const [newOnly, setNewOnly] = useState(false)
 
   const handleInputChange = useCallback((event: React.ChangeEvent<HTMLInputElement>) => {
     let value = event.target.value
@@ -83,7 +91,12 @@ function App() {
     setFullImage(null)
   }, [])
 
+  const toggleNewOnly = useCallback(() => {
+    setNewOnly(v => !v)
+  }, [])
+
   const dataToShow = data
+    .filter(a => (!newOnly || a.new))
     .sort((a, b) => {
       if (a.name === b.name) {
         return a.fileName > b.fileName ? 1 : -1
@@ -97,6 +110,7 @@ function App() {
       <Logo src={logo} />
       <Description>Itt megtalálod klubunk mini gyűjteményét! A lista folyamatosan bővül, a friss érkezésekért kövesd <a href="https://www.facebook.com/vas.es.varazs">facebook oldalunkat</a>!</Description>
       <Search type="search" value={query} onChange={handleInputChange} placeholder="Keresés..." />
+      <NewToggle><input type="checkbox" checked={newOnly} onChange={toggleNewOnly}/> Csak az újdonságok mutatása</NewToggle>
       <Container>
         {dataToShow.map((mini: Mini) => (
           <Tile
