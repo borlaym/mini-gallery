@@ -3861,125 +3861,443 @@
         "fileName": "6F3722A5-7524-417B-ABD7-15D21E8A6605_1_201_a_paqrsk",
         "name": "Intellect Devourer",
         "count": 3,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "019B6D84-A93E-4BAC-B80C-67EFD278F9B4_1_201_a_khvyeq",
         "name": "Intellect Devourer",
         "count": 3,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "28F3F740-E1A5-4CD4-A860-1D7A5F0F7658_1_201_a_xf7vxc",
         "name": "Imp",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "87AAADD4-18EE-4F10-9F68-EBBE3FA955AD_1_201_a_kvaodr",
         "name": "Hippocampus",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "533B8AFB-9E5D-4806-854B-E16AB727A1BC_1_201_a_vvis5w",
         "name": "Mind Flayer",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "1670A266-52D8-410E-A825-EC6456B459D0_1_201_a_dl4zxw",
         "name": "Gorgon",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "1953F87A-308C-4C79-A165-AF8C9D2FFE09_1_201_a_kbe4b5",
         "name": "Mind Flayer",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "2904C02B-AC4F-4DD7-B726-76B71D89D0E9_1_201_a_m06gas",
         "name": "Harpy",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "B1F66C7B-687A-4BAB-82CD-4C5DE0DC320A_1_201_a_b5i25h",
         "name": "Mind Flayer",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "B3B4C5E1-F5E0-4640-A6D7-604FC4977F42_1_201_a_g7zxjy",
         "name": "Mind Witness",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "B4525794-604B-4A24-9297-CEFC54B44738_1_201_a_xgc9aa",
         "name": "Harpy",
         "count": 5,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "C9A92E63-510F-49F2-B9EC-89AB8EFB0596_1_201_a_lfsskb",
         "name": "Griffon",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "D9D62642-D74C-44F8-B581-2AFD2E287E8E_1_201_a_k5ls9d",
         "name": "Ghost",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "0AE9EB93-1BAB-470F-A3BC-9DCDC65B3844_1_201_a_jypkee",
         "name": "Mind Flayer",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "2F725C2B-EF4F-49F9-85A3-6E33DA141E43_1_201_a_p7m90c",
         "name": "Mind Flayer",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "5B4EC4EB-B221-43D0-8ED4-7D96F7C5BF51_1_201_a_x9b4xj",
         "name": "Ghoul",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "6A53ED5F-1874-44EF-B980-6E8EC9246179_1_201_a_jdmgr2",
         "name": "Hell Hound",
         "count": 1,
-        "creatureType": "?",
-        "new": "x"
+        "creatureType": "?"
     },
     {
         "fileName": "006DA816-1B7E-4CBA-B2BC-1C2D6A9C03A8_1_201_a_ibbx0b",
         "name": "Ulitharid",
         "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "0A74F100-A9A7-4C3A-9A59-CC4939B5F672_1_105_c_kszzs4",
+        "name": "Giant Sea Eel",
+        "count": 3,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "EA51EA4B-89E9-4208-A586-8AD265FA1031_1_105_c_cnwi5m",
+        "name": "Giant Octopus",
+        "count": 3,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "CDC8E01E-394A-4BE8-B6DF-CACCDBFA1643_1_105_c_zwolwd",
+        "name": "Marid",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "0B3BC8BD-0B00-4BE2-A45D-5E85198A3E9F_1_105_c_svum79",
+        "name": "Dragon Turtle Wyrmling",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "249174AB-AF6F-4A2F-8AC8-47B58D7F8021_1_105_c_iuam0o",
+        "name": "Sea Lion",
+        "count": 3,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "F1232E52-CD9E-4F71-91AB-3531FEA5F5A2_1_105_c_li6apo",
+        "name": "Crab Folk",
+        "count": 4,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "0319B808-3D46-4B68-8759-A458732E1A6F_1_105_c_ixl8ti",
+        "name": "Giant Lizard",
+        "count": 4,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "E29FF5B3-77C2-444D-B8EE-738980913F05_1_105_c_inggpp",
+        "name": "Wastrilith",
+        "count": 3,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "04A271DC-E3E5-43E9-A682-DDF14CFE2DBB_1_105_c_qjz7d2",
+        "name": "Sahuagin Hatchling Swarm",
+        "count": 3,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "5F0FCD65-7E48-42BB-95E4-11C27A25D6EC_1_105_c_v4mqut",
+        "name": "Hippogriff",
+        "count": 3,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "284D7C21-8E02-4367-9567-D316ECB13A2A_1_105_c_gh8jap",
+        "name": "Plesiosaurus",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "01FA82F8-611B-4838-837D-B572638549A4_1_105_c_tmlllm",
+        "name": "Tortle",
+        "count": 5,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "B6ECAA92-30C7-40EA-84DD-34BAC1CE0EFF_1_105_c_qo8fk3",
+        "name": "Tortle",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "DBCE8ECB-ADC2-4C7E-82A2-1997E9ACDEEC_1_105_c_aud6z3",
+        "name": "Peryton",
+        "count": 3,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "60118B34-86FA-4832-935B-790D1BD9DA4B_1_105_c_gz2kg6",
+        "name": "Amphisbaena",
+        "count": 5,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "9B0A92CF-DB9E-43D9-8BF4-78366E495F60_1_105_c_ller8q",
+        "name": "Blue Abishai",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "E32D4D0B-65C8-49D9-B463-784AFEE82488_1_105_c_ko6rcb",
+        "name": "Giant Crab",
+        "count": 4,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "1D3FBC02-46B1-46B8-8934-95B2181870C6_1_105_c_jv1v2o",
+        "name": "Reef Shark",
+        "count": 4,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "98DBB511-DD12-42F7-AD21-8E6B23E8EC55_1_105_c_cwfqe2",
+        "name": "Aldani",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "53A16EAF-7AE9-44FD-BDDE-B0314A616F3D_1_105_c_wkk2fp",
+        "name": "Aarakocra",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "05E7FA6A-BA34-46A2-92A8-05437845285F_1_105_c_jmsdhq",
+        "name": "Air Elemental Myrmidon",
+        "count": 3,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "6C35C1C1-2183-4631-B8EE-D018F52BF045_1_105_c_ce0p7d",
+        "name": "Water Elemental Myrmidon",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "1A528B51-A0CA-4F45-99FD-1355820D9843_1_105_c_xrvpu3",
+        "name": "Spectator",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "17C39F83-4005-4FA0-A0E5-76CC22245F1F_1_105_c_v0zwje",
+        "name": "Locathah",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "04E6D4FE-3B0A-4504-BC8F-2332DFB45751_1_105_c_xmktyn",
+        "name": "Locathah",
+        "count": 7,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "29D5643D-833E-4FA6-B51A-1B7FA3694C09_1_105_c_ezx7ke",
+        "name": "Sea Hag",
+        "count": 3,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "0AF4552E-F83D-4C02-B9B3-A0A565120035_1_105_c_zyyibj",
+        "name": "Sea Spawn",
+        "count": 4,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "34495AF5-0059-4F79-AA28-EF4523D51870_1_105_c_oeqwib",
+        "name": "Giant Sea Horse",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "0E75F4E3-EE05-4AC1-A335-D276AD4937E4_1_105_c_njvptn",
+        "name": "Sea Elf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "E0940C09-FE80-46B9-9887-991331647F5F_1_105_c_wwbxpg",
+        "name": "Sea Elf",
+        "count": 4,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "EACFC4A8-4CC8-4856-A616-355C709718AE_1_105_c_l8xrzx",
+        "name": "Lizard Queen",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "C73D4BC9-E8D1-4A2A-BBA3-C21014ED4F2C_1_105_c_cbi4pr",
+        "name": "Human",
+        "count": 5,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "258436B9-3B1C-488B-A728-F78B91B57851_1_105_c_slf7u2",
+        "name": "Archdruid",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "D0F6DF98-4A70-452F-80FD-19A98D1AB103_1_105_c_phquv6",
+        "name": "Pirate",
+        "count": 4,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "AF939C4F-F379-40CB-A19C-3ABD7C33AC15_1_105_c_eagghc",
+        "name": "Swashbuckler",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "5B8D09A5-C5AE-4742-9421-B441CF43B541_1_105_c_djewgu",
+        "name": "Tiefling",
+        "count": 3,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "74E14CBC-80E6-4773-833D-CF436CA95B3E_1_105_c_iggias",
+        "name": "Gnome",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "29520786-CBF5-4DE1-928F-714D60C0324E_1_105_c_ipm2px",
+        "name": "Wraith",
+        "count": 4,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "771E1295-6A32-4665-BF35-21195E9C82B8_1_105_c_t0mbf2",
+        "name": "Sahuagin",
+        "count": 5,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "599E239B-57AA-4A5B-BDC6-5370337A9392_1_105_c_bhfcst",
+        "name": "Skum",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "9684C078-0738-499E-8E0E-D2FB87C50B7F_1_105_c_gvs8ka",
+        "name": "Quipper Swarm",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "D69856FA-42A4-444D-AFA7-56F11CBE3E60_1_105_c_phsjc4",
+        "name": "Sahuagin",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "71D7465C-5777-444C-8C16-342B23A7D8DB_1_105_c_soxoxe",
+        "name": "Sahuagin",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "091069B9-9B88-40E4-991C-0983AA76FB67_1_105_c_dea8jq",
+        "name": "Merfolk",
+        "count": 5,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "A98B4CAC-96F1-4FFA-BD82-1FC6210CF0F0_1_105_c_nfdhbb",
+        "name": "Merfolk",
+        "count": 3,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "8D3AC978-4139-40B7-B05B-A617BC75C2B3_1_105_c_f4t86g",
+        "name": "Aboleth",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "F5D8A8B6-D55C-4C81-A778-96CE5667328E_1_105_c_qcblri",
+        "name": "Kraken Priest",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "47D56C2D-A62A-46E2-BBA0-05062CFB482D_1_105_c_jub202",
+        "name": "Hydroloth",
+        "count": 3,
         "creatureType": "?",
         "new": "x"
     }
