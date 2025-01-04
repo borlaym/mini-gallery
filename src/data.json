@@ -4300,5 +4300,307 @@
         "count": 3,
         "creatureType": "?",
         "new": "x"
+    },
+    {
+        "fileName": "IMG_9489_fpgidb",
+        "name": "Elf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9490_zyx823",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9491_ed77uv",
+        "name": "Tortle",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9492_g7nilc",
+        "name": "Elf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9493_mbdpit",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9494_yyulfv",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9495_dbbbsr",
+        "name": "Dwarf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9496_jol1em",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9497_kjsuvr",
+        "name": "Elf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9498_ugdufo",
+        "name": "Elf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9499_sfasia",
+        "name": "Halfling",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9500_faohpl",
+        "name": "Tiefling",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9501_f0jrwt",
+        "name": "Human",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9502_zq9ery",
+        "name": "Elf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9503_ywvyoq",
+        "name": "Elf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9504_zxdfqr",
+        "name": "Elf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9505_qculd8",
+        "name": "Orc",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9506_zwjv7y",
+        "name": "Firbolg",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9507_ajtedh",
+        "name": "Tiefling",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9509_srwq5b",
+        "name": "Orc",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "IMG_9508_lfefjh",
+        "name": "Goliath",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9511_qtayaz",
+        "name": "Bugbear",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9510_cdz7u2",
+        "name": "Hobgoblin",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9512_hff8ja",
+        "name": "Githyanki",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9513_rio4lc",
+        "name": "Githyanki",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9514_yckn1k",
+        "name": "Dwarf",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9516_i0kloa",
+        "name": "Dwarf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9515_sztbtd",
+        "name": "Shrieker",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9517_fswn07",
+        "name": "Skeleton Knight",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9518_u0m9lr",
+        "name": "Elf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9519_pecjk4",
+        "name": "Korred",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9520_a0qbob",
+        "name": "Elf",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9521_cgz3fw",
+        "name": "Strigoi",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9522_lir2ro",
+        "name": "Brown Bear",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "IMG_9523_rsndts",
+        "name": "Cave Fisher",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9524_rftpn9",
+        "name": "Shadow Demon",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9525_xvq2t8",
+        "name": "Green Slaad",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9526_wolcie",
+        "name": "Nightmare",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9527_f57dnm",
+        "name": "Pit Fiend",
+        "count": 1,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9528_yuwlme",
+        "name": "Myconid Sovereign",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "IMG_9531_tocqa7",
+        "name": "Giant Dragonfly",
+        "count": 2,
+        "creatureType": "?",
+        "new": "x"
+    },
+    {
+        "fileName": "IMG_9532_eu60cr",
+        "name": "Bheur Hag",
+        "count": 1,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "IMG_9535_jucpjb",
+        "name": "Kraken Tentacle",
+        "count": 6,
+        "creatureType": "?"
+    },
+    {
+        "fileName": "IMG_9536_mzltt6",
+        "name": "Kraken",
+        "count": 1,
+        "creatureType": "?"
     }
 ]
